@@ -39,4 +39,4 @@ To Execute a code follow these steps:
    Step 5: Select Redshift -> Redshift connection- aws_glue_connection, database - dev, schema-public.
    Step 6: save the job.
 7) Select the just created job and run. After the job succeeds, we can see data being populated inside Redshift's dev database.
-This is the whole procedure for Data Warehouse (incremental data load from S3 to Redshift using GLue).
+This is the whole procedure for Data Warehouse (incremental data load from S3 to Redshift using Glue).
